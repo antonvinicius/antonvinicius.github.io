@@ -1,0 +1,9 @@
+@import "tailwindcss"; 
+
+@theme { 
+    --color-slate-900: #16181D;
+    --color-green-700: #82bc4f;
+
+    --font-sans: 'Poppins', sans-serif;
+    --font-mono: 'Fira Code', monospace;
+}
